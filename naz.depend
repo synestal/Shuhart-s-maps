@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1667411264 source:c:\users\astro\documents\naz\naz\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+
+1667411323 source:e:\Учеба\7 семестр\naz 3.0\naz\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+
+1667440728 source:c:\naz\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+
+1668133725 source:c:\users\Андрей\desktop\naz\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+
